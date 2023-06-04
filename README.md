@@ -16,8 +16,6 @@ https://www.kaggle.com/datasets/meirnizri/covid19-dataset
 1) v1: not one hot encoding
 2) v2: apply one hot encoding
 
--> result: 
-
 - standard scaling for 'AGE'
 
 3. data analysis
